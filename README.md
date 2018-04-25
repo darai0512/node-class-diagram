@@ -1,9 +1,9 @@
-# node-class-diagram-v9
+# node-class-diagram
 
-Class Diagram of Node.js v9.11.1 around Network modules.
+Class Diagram of Node.js (now, only some core modules around Network)
 
-Feedbacks are welcome.
+Feedbacks are welcome, and you can download it by some formats (such as png with transparent background, svg, ...) using [draw.io](https://www.draw.io/)
 
 Reference: https://github.com/shigeki/node-class-diagram
 
-![Class Diagram of Node.js v9.11.1](./node-class-diagram-v9.png)
+![Class Diagram of Node.js](./node-class-diagram.png)
